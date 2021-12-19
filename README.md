@@ -1,2 +1,2 @@
-# aoc2021-javascript
-Advent of Code (2021) in JavaScript
+# aoc2021_python
+Advent of Code (2021) in Python
